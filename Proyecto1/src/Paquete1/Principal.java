@@ -7,7 +7,6 @@ public class Principal {
 		System.out.println("Primera Linea");
 		System.out.println("Segunda Linea");
 		System.out.println("Tercera Linea");
-
 	}
 
 }
